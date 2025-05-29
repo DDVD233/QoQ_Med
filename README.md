@@ -20,12 +20,6 @@ The model is trained with our novel Domain-aware Relative Policy Optimization (D
 - **Enhanced Interpretability**: Generates reasoning traces and highlights salient regions
 - **State-of-the-Art Performance**: Outperforms existing open-source clinical MLLMs
 
-## Available Resources
-
-- **Model Weights**: QoQ-Med-7B and QoQ-Med-32B
-- **Training Pipeline**: Complete DRPO implementation
-- **Reasoning Traces**: 2.61 million question-answer pairs with intermediate reasoning
-
 ## Clinical Domains
 
 QoQ-Med spans multiple clinical specialties:
