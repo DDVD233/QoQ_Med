@@ -170,6 +170,25 @@ QoQ-Med spans multiple clinical specialties:
 - Pathology
 - Mammography
 
+## Citations
+
+If you find the project useful, please cite the following papers:
+
+```
+@article{dai2025climb,
+  title={Climb: Data foundations for large scale multimodal clinical foundation models},
+  author={Dai, Wei and Chen, Peilin and Lu, Malinda and Li, Daniel and Wei, Haowen and Cui, Hejie and Liang, Paul Pu},
+  journal={International Conference on Machine Learning},
+  year={2025}
+}
+@article{dai2025qoq,
+  title={QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training},
+  author={Dai, Wei and Chen, Peilin and Ekbote, Chanakya and Liang, Paul Pu},
+  journal={arXiv preprint arXiv:2506.00711},
+  year={2025}
+}
+```
+
 ## Important Note
 
 This model is intended for research purposes only. Before extensive real-world testing (like human trials), it is not suitable for clinical deployment. This is a research preview, not a product approved by federal agencies.
