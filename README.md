@@ -1,5 +1,8 @@
 # QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training
 
+[![arXiv](https://img.shields.io/badge/arXiv-2506.00711-b31b1b.svg)](https://arxiv.org/abs/2506.00711)
+[![Model on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-sm-dark.svg)](https://huggingface.co/ddvd233/QoQ-Med-VL-7B)
+
 ![QoQ-Med Model Overview](images/model_training.jpeg)
 
 This repository contains the code, model weights, and training pipeline for QoQ-Med (Qwen Omni-Reasoning on Medical Questions), a multimodal clinical foundation model with reasoning capabilities.
