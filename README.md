@@ -16,6 +16,18 @@ This repository contains the code, model weights, and training pipeline for QoQ-
 
 ## Quick Start
 
+### Use with Front End Apps
+
+Prefer a point-and-click experience? Community-maintained **GGUF** builds are already on the Hub. They load instantly in desktop chat front-ends such as **LM Studio**, **Ollama**, and other llama.cpp-compatible apps—just search for “QoQ-Med-VL-7B/32B,” click **Download**, and start chatting. No Python environment, GPU, or command-line setup required.
+
+| Model | Format | HuggingFace Link |
+|-------|--------|------------------|
+| QoQ-Med-VL-7B       | GGUF | [mradermacher/QoQ-Med-VL-7B-GGUF](https://huggingface.co/mradermacher/QoQ-Med-VL-7B-GGUF) |
+| QoQ-Med-VL-7B-i1    | GGUF | [mradermacher/QoQ-Med-VL-7B-i1-GGUF](https://huggingface.co/mradermacher/QoQ-Med-VL-7B-i1-GGUF) |
+| QoQ-Med-VL-32B      | GGUF | [mradermacher/QoQ-Med-VL-32B-GGUF](https://huggingface.co/mradermacher/QoQ-Med-VL-32B-GGUF) |
+
+<img width="1037" alt="LMStudio" src="https://github.com/user-attachments/assets/ea80dd4c-25b6-4038-ae0e-9d1d5713d54a" />
+
 ### Installation
 
 First, ensure you have the necessary dependencies:
