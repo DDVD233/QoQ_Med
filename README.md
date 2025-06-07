@@ -7,6 +7,8 @@
 
 This repository contains the code, model weights, and training pipeline for QoQ-Med (Qwen Omni-Reasoning on Medical Questions), a multimodal clinical foundation model with reasoning capabilities.
 
+Paper: https://arxiv.org/abs/2506.00711
+
 ## Model Weights
 
 | Model | Weights | Avg. Val Accuracy |
