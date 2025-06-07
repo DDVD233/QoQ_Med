@@ -143,6 +143,9 @@ output_text = processor.batch_decode(
 
 print(output_text[0])
 ```
+### Time Series Support
+
+Due to limitations with the `transformers` package, models loaded this way only supports vision and text inputs. Our current approach method involves a lot of hacking around this and is not easily migratable. We are working on a better solution now and hope to release it in the near future. 
 
 ## Overview
 
